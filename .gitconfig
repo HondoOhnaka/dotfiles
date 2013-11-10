@@ -1,0 +1,6 @@
+[user]
+	name = jmunro
+	email = jimfmunro@gmail.com
+[core]
+	excludesfile = /Users/jimfmunro/.gitignore_global
+	editor = subl
