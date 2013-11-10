@@ -27,5 +27,6 @@ alias browse=chrome
 alias h='history'
 alias c='clear'
 alias ll='ls -al'
+alias l.='ls -d .*'
 alias proc='ps aux | grep'
 
