@@ -1,6 +1,23 @@
 [user]
-	name = jmunro
+	name = Jim Munro
 	email = jimfmunro@gmail.com
 [core]
 	excludesfile = /Users/jimfmunro/.gitignore_global
 	editor = subl
+[credential]
+    helper = osxkeychain
+[alias]
+    st = status
+    ci = commit
+    br = branch
+    co = checkout
+    df = diff
+    lg = log -p
+    log1 = log --oneline
+    cob = checkout -b
+    undo = reset --hard
+    pur = pull upstream release
+    pom = pull origin master
+    poi = pull origin integration
+[color]
+    ui = auto
